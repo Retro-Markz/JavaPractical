@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c87f3ad7-ce70-4b10-a7bd-aa36f0a5faf7" name="Changes" comment="sum function">
-      <change afterPath="$PROJECT_DIR$/src/PairFunction.java" afterDir="false" />
+    <list default="true" id="c87f3ad7-ce70-4b10-a7bd-aa36f0a5faf7" name="Changes" comment="pair num check done">
+      <change afterPath="$PROJECT_DIR$/src/RecursiveFunction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,7 @@
   "keyToString": {
     "Application.Functions.executor": "Run",
     "Application.PairFunction.executor": "Run",
+    "Application.RecursiveFunction.executor": "Run",
     "Application.SumFunction.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -86,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726319008046</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pair num check done">
+      <option name="closed" value="true" />
+      <created>1726319386332</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726319386332</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +125,7 @@
     <MESSAGE value="start functions" />
     <MESSAGE value="start functions body" />
     <MESSAGE value="sum function" />
-    <option name="LAST_COMMIT_MESSAGE" value="sum function" />
+    <MESSAGE value="pair num check done" />
+    <option name="LAST_COMMIT_MESSAGE" value="pair num check done" />
   </component>
 </project>
